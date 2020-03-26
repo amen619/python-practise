@@ -1,2 +1,2 @@
 # python-practise
-Learning python
+Learning python from scratch.
