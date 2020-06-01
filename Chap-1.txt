@@ -1,8 +1,0 @@
-Operator Operation 
-** Exponent 
-% Modulus/remainder
-// Integer division/floored 
-/ Division 
-* Multiplication 
-- Subtraction 
-+ Addition
